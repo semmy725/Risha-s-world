@@ -1,0 +1,22 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    background-image: url(538989-ciencia-ficcion.jpg);
+}
+
+.task {
+  margin-bottom: 20px;
+  padding: 20px;
+  margin: 100px;
+  background-color: blue;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+#top-text{
+  margin-bottom: 20px;
+  padding: 20px;
+  margin: 100px;
+  background-color: blue;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
